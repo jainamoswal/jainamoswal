@@ -15,7 +15,7 @@
 | [Group Manager](https://t.me/its_a_robot) | ❌ |
 | [Mail Bot](https://t.me/xmail_robot) | ✔️ |
 
-`Updated last at ~ 09:22 17/08`
+`Updated last at ~ 11:50 17/08`
 
 **Made with ❤️ via [BotStatus](https://github.com/jainamoswal/botstatus)**. 
 <end>
