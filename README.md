@@ -12,10 +12,11 @@
 
 | 🤖 Bot 🤖 | ⭐️ Status ⭐️ |
 | :-: | :-: |
-| [Group Manager](https://t.me/its_a_robot) | ✔️ |
+| [Group Manager](https://t.me/iTs_a_RoBot) | ✔️ |
+| [SMS Scam](https://t.me/sMs_scambot) | ✔️ |
 | [Mail Bot](https://t.me/xmail_robot) | ✔️ |
 
-`Updated last at ~ 18:21 20/08`
+`Updated last at ~ 20:37 20/08`
 
 **Made with ❤️ via [BotStatus](https://github.com/jainamoswal/botstatus)**. 
 <end>
