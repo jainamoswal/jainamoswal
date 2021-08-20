@@ -69,6 +69,8 @@
     <a href="https://upier.org/pay?vpa=jainamoswal@sbi&amount=250">
         <img height="40px" src="https://upload.wikimedia.org/wikipedia/commons/archive/e/e1/20200901100646%21UPI-Logo-vector.svg" />
     </a>
+    <a href="https://www.digitalocean.com/?refcode=0d3755756467&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img height="40px" src="https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg" alt="DigitalOcean Referral Badge" /></a>
+    
   </p>
   
 </details>
