@@ -6,7 +6,7 @@ on:
 jobs:
   update-readme-with-projects:
     name: 🏃‍♂️ run the bot 🏃‍♂️
-    runs-on: macos-11
+    runs-on: windows-latest
     steps:
       - uses: jainamoswal/botstatus@main
         env: # all the six environment variables are must, else the action will raise errors.
