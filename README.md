@@ -16,7 +16,7 @@
 | [SMS Scam](https://t.me/sMs_scambot) | ✔️ |
 | [Mail Bot](https://t.me/xmail_robot) | ✔️ |
 
-`Updated last at ~ 14:46 21/08`
+`Updated last at ~ 17:54 21/08`
 
 **Made with ❤️ via [BotStatus](https://github.com/jainamoswal/botstatus)**. 
 <end>
