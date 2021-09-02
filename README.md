@@ -13,10 +13,10 @@
 | 🤖 Bot 🤖 | ⭐️ Status ⭐️ |
 | :-: | :-: |
 | [Group Manager](https://t.me/iTs_a_RoBot) | ✔️ |
-| [SMS Scam](https://t.me/sMs_scambot) | ✔️ |
+| [SMS Scam](https://t.me/sMs_scambot) | ❌ |
 | [Mail Bot](https://t.me/xmail_robot) | ✔️ |
 
-`Updated last at ~ 20:44 23/08`
+`Updated last at ~ 13:47 02/09`
 
 **Made with ❤️ via [BotStatus](https://github.com/jainamoswal/botstatus)**. 
 <end>
