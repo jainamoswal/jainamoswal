@@ -4,6 +4,7 @@ on:
   workflow_dispatch:
   schedule:
       - cron: "30 6/24 * * *"
+      
 jobs:
   update-readme-with-projects:
     name: Update ✨ 
