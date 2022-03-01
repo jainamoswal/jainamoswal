@@ -13,7 +13,7 @@
 | [­](https://t.me/iTs_a_RoBot) | ✔️ |
 | [Mail Bot](https://t.me/xmail_robot) | ✔️ |
 
-`Updated last at ~ 12:14 28/02`
+`Updated last at ~ 12:14 01/03`
 
 **Made with ❤️ via [BotStatus](https://github.com/jainamoswal/botstatus)**. 
 <end>
