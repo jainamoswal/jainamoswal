@@ -37,7 +37,7 @@
         <img height="25px" src="https://img.shields.io/badge/facebook-0000ff?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     <a href="https://twitter.com/jainamoswal_4">
         <img height="25px" src="https://img.shields.io/badge/twitter-FFFFFF?style=for-the-badge&logo=twitter" /> </a>
-    <a href="https://api.whatsapp.com/send/?phone=918106954061&text&app_absent=0">
+    <a href="https://api.whatsapp.com/send/?phone=918160954061&text&app_absent=0">
         <img height="25px" src="https://img.shields.io/badge/whatsapp-90EE90?style=for-the-badge&logo=whatsapp&logoColor=228B22" /></a>
 </p>
 </details>
