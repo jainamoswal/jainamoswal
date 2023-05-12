@@ -3,7 +3,7 @@ name: ⚡️ Update Status. ⚡️
 on:
   workflow_dispatch:
   schedule:
-      - cron: "30 6/24 * * *"
+      - cron: "30 5 * * *"
       
 jobs:
   update-readme-with-projects:
