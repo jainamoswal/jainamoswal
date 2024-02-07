@@ -19,6 +19,7 @@
 <end>
 </details>
 
+<!--
 <details>
   <summary><b>:standing_man: &nbsp;Contact me</b></summary><br/>
 
@@ -41,6 +42,7 @@
         <img height="25px" src="https://img.shields.io/badge/whatsapp-90EE90?style=for-the-badge&logo=whatsapp&logoColor=228B22" /></a>
 </p>
 </details>
+-->
 
 <details>
   <summary><b>:v: &nbsp;Support me</b></summary>
@@ -70,7 +72,7 @@
 <a href="https://github.com/jainamoswal">
 <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/jainamoswal1/count.svg" /></p></a>
+  <img src="https://profile-counter.glitch.me/jainamoswal/count.svg" /></p></a>
 
 <p href="https://t.me/jainamoswal" align="center">
   <img src="media/footer.svg" alt="me"></p>
