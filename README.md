@@ -1,7 +1,8 @@
 <a href="https://jainam.xyz">
 <p align="left" >
   <img src="media/icon.svg" alt="me"></a>
-
+  
+<!--
 <details>
 <summary><b>:zap:&nbsp;<a href='https://t.me/j_projects/6'>Bot status</a></b></summary>
 <a align="center"><br>
@@ -19,7 +20,6 @@
 <end>
 </details>
 
-<!--
 <details>
   <summary><b>:standing_man: &nbsp;Contact me</b></summary><br/>
 
