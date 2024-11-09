@@ -50,6 +50,3 @@
 <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/jainamoswal/count.svg" /></p></a>
-
-<p href="https://t.me/jainamoswal" align="center">
-  <img src="media/footer.svg" alt="me"></p>
